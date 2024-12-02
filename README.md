@@ -1,7 +1,6 @@
 Nombre de los compañeros
-<<<<<<< HEAD
-luis 
-=======
+
 oscar
 Diego
+Roberto
 >>>>>>> origin/master
