@@ -27,3 +27,14 @@ Oscar Fuentes
 
 
 
+6. Añadimos los cambios en la carpeta de nuestra practica:
+
+![image](https://github.com/user-attachments/assets/65cd78ae-7f21-4286-83d0-69f9fb29dd98)
+
+7. Ahora hacemos un Stage All y el commit de los cambios que hemos realizado:
+
+![image](https://github.com/user-attachments/assets/69074437-152b-44c8-ac51-14e2d2c73951)
+
+9. Para finalizar actualizamos el master en local con un Fetch All y un Pull:
+
+
