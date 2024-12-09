@@ -1,10 +1,10 @@
 # PRÁCTICA 3 GESPRO
 
-Diego Alonso
+Diego Alonso Soria
 
-Roberto García
+Roberto García Varona
 
-Oscar Fuentes
+Oscar Fuentes Paniego
 
 ## Procedimiento
 
