@@ -25,7 +25,7 @@ Oscar Fuentes
 
 5. Una vez hecho el Fetch All, verificamos que la Branch se encuentra en nuestra parte remote del gitkraken:
 
-
+![image](https://github.com/user-attachments/assets/877d46d8-c1d6-4b50-8c8e-503f947ddd9f)
 
 6. Añadimos los cambios en la carpeta de nuestra practica:
 
