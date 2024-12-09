@@ -37,4 +37,5 @@ Oscar Fuentes
 
 8. Para finalizar actualizamos el master en local con un Fetch All y un Pull:
 
+![image](https://github.com/user-attachments/assets/9c5b1399-e81c-473d-a727-36efe26a5cba)
 
