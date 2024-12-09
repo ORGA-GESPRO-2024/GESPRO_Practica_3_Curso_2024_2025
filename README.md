@@ -31,7 +31,7 @@ Oscar Fuentes Paniego
 
 ![image](https://github.com/user-attachments/assets/65cd78ae-7f21-4286-83d0-69f9fb29dd98)
 
-7. Ahora hacemos un Stage All y el commit de los cambios que hemos realizado:
+7. Ahora hacemos un Stage All y el commit especificando el nombre del commint, con los cambios que hemos realizado:
 
 ![image](https://github.com/user-attachments/assets/69074437-152b-44c8-ac51-14e2d2c73951)
 
