@@ -44,7 +44,8 @@ Oscar Fuentes Paniego
 
 1. Lista de commits:
 
-![image](https://github.com/user-attachments/assets/a4320d1d-28ac-44ef-a29d-5032a460b4c7)
+![image](https://github.com/user-attachments/assets/9ce57d4f-966c-40ad-ac33-cec4215ab182)
+![image](https://github.com/user-attachments/assets/de934bcc-86e2-437f-afa3-15246d556dfd)
 
 2. Primer commit:
 
@@ -52,7 +53,7 @@ Oscar Fuentes Paniego
 
 3. Ultimo commit:
 
-
+![image](https://github.com/user-attachments/assets/3b87040e-9161-4854-98fe-6f01f5192561)
 
 
 ## Github
