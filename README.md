@@ -39,3 +39,32 @@ Oscar Fuentes Paniego
 
 ![image](https://github.com/user-attachments/assets/9c5b1399-e81c-473d-a727-36efe26a5cba)
 
+
+## Git Kraken
+
+1. Lista de commits:
+
+![image](https://github.com/user-attachments/assets/a4320d1d-28ac-44ef-a29d-5032a460b4c7)
+
+2. Primer commit:
+
+![image](https://github.com/user-attachments/assets/55cbf5f5-be03-4b91-b3e5-223a4f32710b)
+
+3. Ultimo commit:
+
+
+
+
+## Github
+
+1. "Insights → Pulse":
+
+
+
+2. "Insights→ Code frequency":
+
+
+
+3. PRQs realizadas cerradas:
+
+
