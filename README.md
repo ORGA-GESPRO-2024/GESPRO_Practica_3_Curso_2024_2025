@@ -59,12 +59,13 @@ Oscar Fuentes Paniego
 
 1. "Insights → Pulse":
 
-
+![image](https://github.com/user-attachments/assets/20f96400-034e-48bd-8016-1c3d57a114a9)
+![image](https://github.com/user-attachments/assets/5c9f1dc7-20a7-44d4-9b7f-0cafd3665198)
 
 2. "Insights→ Code frequency":
 
-
+![image](https://github.com/user-attachments/assets/f5a6602e-6389-4726-b3be-3a759a2e7882)
 
 3. PRQs realizadas cerradas:
 
-
+![image](https://github.com/user-attachments/assets/c7dc607f-1670-450c-a4fa-14dcd6380a30)
